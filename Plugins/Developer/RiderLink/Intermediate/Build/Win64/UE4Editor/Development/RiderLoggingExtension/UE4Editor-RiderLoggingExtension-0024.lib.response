@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderLoggingExtension-0024.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal engine Projects\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Core\SharedPCH.Core.RTTI.ShadowErrors.h.obj"
+"G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\Module.RiderLoggingExtension.cpp.obj"
+"G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\Default.rc2.res"
+/OUT:"G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderLoggingExtension\UE4Editor-RiderLoggingExtension-0024.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderLoggingExtension

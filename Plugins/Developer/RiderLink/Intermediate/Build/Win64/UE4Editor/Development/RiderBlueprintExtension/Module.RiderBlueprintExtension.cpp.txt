@@ -1,0 +1,341 @@
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprintExtension\Definitions.RiderBlueprintExtension.h
+G:/Unreal engine Projects/SimpleShooter/Plugins/Developer/RiderLink/Source/RiderBlueprintExtension/Private/BlueprintProvider.cpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension\Public\BlueprintProvider.hpp
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Async/Async.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Kismet\Public\BlueprintEditor.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowTabFactory.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowTabManager.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Kismet\Public\BlueprintEditorModule.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowCentricApplication.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Developer/Merge/Public/Merge.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\MessagingCommon\Public\MessageEndpointBuilder.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Messaging\Public\IMessagingModule.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\MessagingCommon\Public\MessageHandlers.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Kismet2/KismetEditorUtilities.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+G:/Unreal engine Projects/SimpleShooter/Plugins/Developer/RiderLink/Source/RiderBlueprintExtension/Private/RiderBlueprintExtension.cpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderBlueprintExtension\Public\RiderBlueprintExtension.hpp
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Protocol.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IProtocol.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdDynamic.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RName.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\thirdparty.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl/ordered_set.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdint
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\deque
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xmemory
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\limits
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cfloat
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\climits
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cwchar
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdio
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xatomic.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xutility
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cstring
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\utility
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\functional
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\tuple
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\typeinfo
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_typeinfo.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\memory
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\iosfwd
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\vector
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl\ordered_hash.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\algorithm
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cmath
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\iterator
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\stdexcept
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xstring
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\tsl/ordered_map.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\optional\tl\optional.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark/variant.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\config.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\in_place.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\mpark\lib.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\nonstd/string_view.hpp
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\ostream
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\ios
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocnum
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\streambuf
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\system_error
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\__msvc_system_error_abi.hpp
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cerrno
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xcall_once.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xerrc.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\atomic
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocale
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xfacet
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocinfo
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\string
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cctype
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/Serializers.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/RdId.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Buffer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/DateTime.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/hash.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/core_util.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util\erase_if.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/gen_util.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/allocator.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/overloaded.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/shared_function.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/to_string.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\thread
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\chrono
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\ratio
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xtimec.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\vcruntime_startup.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xthreads.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\sstream
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\istream
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\future
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\condition_variable
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\mutex
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\ppltasks.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\pplwin.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\pplinterface.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\ppltaskscheduler.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\crtdefs.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\pplcancellation_token.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/wrapper.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/core_traits.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\types/Void.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/spdlog.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/common.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/tweakme.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/null_mutex.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/fmt.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/bundled/core.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/fmt/bundled/format.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/registry.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/cfg/log_levels.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\unordered_map
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xhash
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\list
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xbit_ops.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/logger.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/log_msg.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/backtracer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/log_msg_buffer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/circular_q.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/version.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\thirdparty\spdlog/details/synchronous_factory.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\iostream
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/list.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\hashing.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/ISerializable.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\protocol/Identities.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IUnknownInstance.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/RdAny.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization\DefaultAbstractDeclaration.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\std/unordered_map.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\unordered_set
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler/base/IScheduler.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IWire.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/interfaces.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/Lifetime.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime\LifetimeImpl.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\map
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xtree
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/IRdReactive.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdBindable.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base\IRdWireable.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/Property.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IProperty.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/SignalX.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base\IPropertyBase.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/SequentialLifetimes.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\lifetime/LifetimeDefinition.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/SerializationCtx.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\regex
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\locale
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocbuf
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocmes
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xlocmon
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\xloctime
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern/InternRoot.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdReactiveBase.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdBindableBase.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\guards.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\intern\InternScheduler.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/InternedAnySerializer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/SerializationCtx.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdSignal.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/Polymorphic.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdProperty.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/RdPropertyBase.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdList.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableList.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableList.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base\viewable_collections.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdSet.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableSet.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableSet.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\impl/RdMap.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive/ViewableMap.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\reactive\base/IViewableMap.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\base/ISerializersOwner.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/NullableSerializer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/AbstractPolymorphic.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\util\framework_traits.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/ArraySerializer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\serialization/InternedSerializer.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext/RdExtBase.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\ext\ExtWire.h
+G:\MVS\VC\Tools\MSVC\14.27.29110\INCLUDE\queue
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdCall.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTask.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTaskImpl.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\RdTaskResult.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler/SynchronousScheduler.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\WiredRdTask.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task\WiredRdTaskImpl.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdEndpoint.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\task/RdSymmetricCall.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_core_cpp\util/enum.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../instantiations.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\UE4TypesMarshallers.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/UnrealLogEvent.Generated.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/LogMessageInfo.Generated.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\UE4Library\../UE4Library/StringRange.Generated.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/BlueprintReference.Generated.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/UClass.Generated.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdEditorProtocol\RdEditorModel\../UE4Library/PlayState.Generated.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RiderLink.hpp
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\RdConnection.hpp
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp/scheduler/SingleThreadScheduler.h
+G:\Unreal engine Projects\SimpleShooter\Plugins\Developer\RiderLink\Source\RD\include\rd_framework_cpp\scheduler\base/SingleThreadSchedulerBase.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+G:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
